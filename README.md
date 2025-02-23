@@ -6,7 +6,7 @@
 
 <div>
   <h1>About me</h1>
-  <p> 👩‍🏫I am a former teacher turned fullstack software engineer with .<p/>
+  <p> 👩‍🏫I am a former teacher turned fullstack software engineer with an interest in creating tools that help others grow.<p/>
 <p>🌱 I’m currently learning how to develop fullstack apps using the CI/CD pipeline and DevSecOps principles.</p> 
 <p>🔭 I’m currently working on a Chinese language learning companion app aimed at helping learners search and save chinese idioms into a vocabulary bank.</p>
 </div>
@@ -44,13 +44,9 @@
     <ul>
     <li><b>Problem statement</b>: Online dictionaries do not often have extensive entries on chinese idioms.</li>
     <li><b>Solution</b>: A study companion app for Chinese learners to search up idioms from an idiomm bank.</li>
-      <li>Key learnings so far: 
-
-
+      <li><b></b>Key learnings so far:</b>
 
 <p>1. Improved organisation skills through working to self-set deadlines and tools like kanban board and Figma to plan component trees, UI layout and MVPs features.</p>
-
-
 
 <p>2. Integrating CI/CD pipeline automation such as Github actions.</p> </li>
   </ul>
