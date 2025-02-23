@@ -44,7 +44,7 @@
     <ul>
     <li><b>Problem statement</b>: Online dictionaries do not often have extensive entries on chinese idioms.</li>
     <li><b>Solution</b>: A study companion app for Chinese learners to search up idioms from an idiomm bank.</li>
-      <li><b></b>Key learnings so far:</b>
+      <li><b>Key learnings so far:</b>
 
 <p>1. Improved organisation skills through working to self-set deadlines and tools like kanban board and Figma to plan component trees, UI layout and MVPs features.</p>
 
